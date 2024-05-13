@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Charitha-Prabashwara/Js-Practice-DevOps-seutf/issues"
   },
-  "homepage": "https://github.com/Charitha-Prabashwara/Js-Practice-DevOps-seutf#readme"
+  "homepage": "https://github.com/Charitha-Prabashwara/Js-Practice-DevOps-seutf#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
 }

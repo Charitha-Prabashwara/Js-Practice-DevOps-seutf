@@ -1,0 +1,19 @@
+{
+  "name": "js-practice-devops-seutf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charitha-Prabashwara/Js-Practice-DevOps-seutf.git"
+  },
+  "author": "https://github.com/Charitha-Prabashwara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charitha-Prabashwara/Js-Practice-DevOps-seutf/issues"
+  },
+  "homepage": "https://github.com/Charitha-Prabashwara/Js-Practice-DevOps-seutf#readme"
+}
